@@ -207,10 +207,12 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-LoZRLib_Tests/Pods-LoZRLib_Tests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 				"${BUILT_PRODUCTS_DIR}/LoZRLib/LoZRLib.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LoZRLib.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
