@@ -1,0 +1,22 @@
+{
+  "name": "LoZRLib",
+  "version": "0.1.0",
+  "summary": "MY LoZRLib.",
+  "description": "MY LoZRLibMY LoZRLibMY LoZRLib",
+  "homepage": "https://github.com/blueSkyLoop",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "315187951@qq.com": "315187951@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/blueSkyLoop/LoZRLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoZRLib/Classes/**/*"
+}

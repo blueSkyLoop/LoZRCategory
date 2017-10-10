@@ -1,0 +1,6 @@
+framework module LoZRLib {
+  umbrella header "LoZRLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

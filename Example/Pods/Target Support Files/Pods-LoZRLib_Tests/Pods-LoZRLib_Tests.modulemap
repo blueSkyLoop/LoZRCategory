@@ -1,0 +1,6 @@
+framework module Pods_LoZRLib_Tests {
+  umbrella header "Pods-LoZRLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
