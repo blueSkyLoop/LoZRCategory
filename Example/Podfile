@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LoZRLib_Tests' do
+  pod 'LoZRLib', :path => '../'
+  
+  
+end
